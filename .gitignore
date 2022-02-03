@@ -1,0 +1,10 @@
+*.pyc
+*.egg
+*.egg-info
+doc/_build
+dist
+oauthtutorial_project/db.sqlite3
+oauthtutorial_project/settings/local.py
+
+# Selenium log files
+*driver.log
